@@ -32,4 +32,5 @@
 |bob|bolsa papel branco|bolsa apaisada (apertura lateral)|132|187||SANT-Bryo, SANT-Lich||
 |so|sobre postal|sobre apaisado (apertura superior)|200|145||SANT-Bryo|descatalogado 2023|
 
+FIN
 
